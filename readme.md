@@ -32,7 +32,7 @@ SOLA is designed for:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/SOLA.git
+   git clone https://github.com/Graduation-Project-SOLA.git
    ```
 2. Install the required dependencies:
    ```bash
